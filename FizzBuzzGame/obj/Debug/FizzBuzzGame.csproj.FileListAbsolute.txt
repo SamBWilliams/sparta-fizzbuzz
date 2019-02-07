@@ -1,0 +1,7 @@
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe.config
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.exe
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\bin\Debug\FizzBuzzGame.pdb
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csproj.CoreCompileInputs.cache
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.exe
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.pdb
+c:\users\tech-w114a\source\repos\FizzBuzzGame\FizzBuzzGame\obj\Debug\FizzBuzzGame.csprojAssemblyReference.cache
